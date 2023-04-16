@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Vandalbunniee
-- 👀 I’m interested in horror movies, collecting squishmallows and playing video games
 - 🌱 I’m currently learning C# and diving into Audio in Unity
 - 💞️ I’m into astrology, anything pink and italian food
 - 📫 How to reach me ... @nataliaaxrose on all socials
