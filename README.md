@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Vandalbunniee
-- 👀 I’m interested in ... Fallout, Minecraft and Dead By Daylight
-- 🌱 I’m currently learning ... Game Development on Code Academy
-- 💞️ I’m looking to collaborate on ... Nothing at the moment 
+- 👀 I’m interested in horror movies, collecting squishmallows and playing video games
+- 🌱 I’m currently learning C# and diving into Audio in Unity
+- 💞️ I’m into astrology, anything pink and italian food
 - 📫 How to reach me ... @nataliaaxrose on all socials
 
 <!---
